@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 import work.lince.commons.authentication.AuthenticationService;
 import work.lince.commons.health.model.Health;
 
-import java.security.Principal;
 import java.time.LocalDateTime;
 
 @Service
