@@ -7,13 +7,9 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
 import work.lince.commons.authentication.AuthenticationService;
 
-import java.time.Instant;
-import java.time.LocalDateTime;
-import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.temporal.Temporal;
 import java.util.Date;
-import java.util.TimeZone;
 
 @Component
 public class LinceInfoContributor implements InfoContributor {
