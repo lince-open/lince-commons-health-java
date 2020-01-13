@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>work.lince</groupId>
     <artifactId>lince-commons-health</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Lince Commons Health</name>
